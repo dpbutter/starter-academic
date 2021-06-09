@@ -28,7 +28,7 @@ education:
   - course: PhD in Physics
     institution: University of California at Berkeley
     year: 2010
-  - course: AB in Chemistry \& Physics
+  - course: AB in Chemistry & Physics
     institution: Harvard University
     year: 2002
 
